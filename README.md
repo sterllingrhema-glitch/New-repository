@@ -3,6 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stamford Hotel - Kubwa, Abuja | Luxury Stay & Events</title>
+    <meta name="description" content="Stamford Hotel in Kubwa, Abuja offers 50 tastefully furnished rooms, free Wi-Fi, swimming pool, restaurant, event hall, and more. Book your stay today!">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f8f9fa; color: #333; line-height: 1.6; }
+        header { background: linear-gradient(rgba(0, 64, 128, 0.8), rgba(0, 64, 128, 0.8)), url('https://images.trvl-media.com/lodging/114000000/113580000/113576400/113576333/cb2ae162.jpg?impolicy=resizecrop&rw=1200&rh=600') center/cover no-repeat; color: white; text-align: center; padding: 120px 20px 80px; }
+        header h1 { font-size: 3.5em; margin: 0; }
+        header p { font-size: 1.4em; }
+        nav { background-color: #004080; padding: 15px; position: sticky; top: 0; z-index: 1000; }
+        nav a { color: white; margin: 0 20px; text-decoration: none; font-weight: bold; transition: 0.3s; }
+        nav a:hover { color: #ffd700; }
+        section { padding: 60px 20px; max-width: 1200px; margin: 0 auto; }
+        .hero-btn { display: inline-block; background: #ffd700; color: #004080; padding: 15px 30px; margin-top: 20px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        .card:hover { transform: translateY(-10px); }
+        .card img { width: 100%; height: 220px; object-fit: cover; }
+        .card-content { padding: 20px; text-align: center; }
+        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minm<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stamford Hotel - Kubwa, Abuja, Nigeria</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
